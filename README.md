@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning about vue.js
 - 💞️ Here's my linked.in  www.linkedin.com/in/leftmythrone
 - 📫 How to reach me +62-851-7200-2451 and here's my instagram @christophers.lc
+- ✨ Find my replit https://replit.com/@leftmythrone
 
 <!---
 leftmythrone/leftmythrone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
