@@ -3,7 +3,9 @@ Hi 👋 My name is Yosua Christopher
 Full Stack Web Developer
 ------------------------
 
-I’m interested in Full-Stack Web Developer & Cyber Security* 🌍  I'm based in Indonesia, Surabaya* ✉️  You can contact me at [leftmythone@gmail.com](mailto:leftmythone@gmail.com)
+I’m interested in Full-Stack Web Developer & Cyber Security* 
+🌍  I'm based in Indonesia, Surabaya* 
+✉️  You can contact me at [leftmythone@gmail.com](mailto:leftmythone@gmail.com)
 
 ### Skills
 
