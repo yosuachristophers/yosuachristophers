@@ -1,4 +1,4 @@
-Hi 👋 My name is Yosua Christopher
+HI, MY NAME IS YOSUA CHRISTOPHER
 ==================================
 Full Stack Web Developer
 ------------------------
